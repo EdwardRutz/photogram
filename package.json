@@ -1,0 +1,21 @@
+{
+  "name": "PhotoGram",
+  "version": "1.0.0",
+  "description": "Progressive Web App Instagram clone demonstration",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "complete",
+    "tutorial"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
