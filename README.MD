@@ -19,4 +19,6 @@
 ## Sources
 
 - [Tutorial: Progressive Web App: The Complete Guide by Maximillian Schwartzmuller](https://www.udemy.com/progressive-web-app-pwa-the-complete-guide/)
+- [MDN: Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest)
+- [CanIUse.com: Web App Manifest Browser Support](https://caniuse.com/#feat=web-app-manifest)
 
