@@ -1,6 +1,12 @@
 # PhotoGram
 
 > Demonstrating features of a Progressive Web App (PWA).
+>- Share pictures with the PhotoGram App
+>- A PWA runs in the browser and works like a native app on the mobile device. Features include:
+    >- Install the PWA easily on the mobile device, no app store needed.
+    >- 
+ 
+ - *Work in Progress*   
 
 
 
