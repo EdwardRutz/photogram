@@ -3,17 +3,21 @@
 > Demonstrating features of a Progressive Web App (PWA).
 >- Share pictures with the PhotoGram App
 >- A PWA runs in the browser and works like a native app on the mobile device. Features include:
-    >- Install the PWA easily on the mobile device, no app store needed.
+    >- Install a button on the home screen on a mobile device, no app store needed.
     >- 
  
  - *Work in Progress*   
 
-
-
 ## Dependencies
 
 - JavaScript
-- http-server
+- http-server 
+
+
+## Notes
+
+- Create and use a manifest.json to pass extra information to the browser
+- Service Workers
 
 
 ## Sources
